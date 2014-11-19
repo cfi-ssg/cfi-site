@@ -1,0 +1,2 @@
+module CreativeFuseHelper
+end
